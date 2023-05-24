@@ -1,6 +1,6 @@
 site_name: Better Aperture Docuemenation
 theme:
-  name: mkdocs
+  name: material
 plugins:
   - search
   - mkdocstrings:
